@@ -1,0 +1,20 @@
+*{ margin: 0; padding: 0; box-sizing: border-box}
+.container{
+   width: 100%;
+   height: 200vh;
+   background-color: #eee;
+}
+.container p {
+   padding: 2rem 1rem;
+}
+.container nav {
+   width: 100%;
+   padding:  2rem 1rem;
+   background-color: #0D4C92;
+   color : #fff;
+   position: sticky ;
+   top : 0 ;
+   left : 0;
+   text-align: center;
+   font-size: 2rem;
+}
